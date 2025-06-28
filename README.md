@@ -1,4 +1,4 @@
-# Harry Lynch – Python / AI-ML Projects (WITH SOURCE CODE)
+# Harry Lynch – Python / AI-ML Projects (WITH CODE)
 
 > **All projects are open-source.**  
 > Each project has a repository link with it's own robust documentation if you'd
